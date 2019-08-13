@@ -5,7 +5,7 @@
 
 TEST_CASE("test the test function's output")
 {
-    REQUIRE(test_func() == 3);
+    REQUIRE(test_func() == 5);
 }
 
 
