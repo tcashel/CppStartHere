@@ -1,5 +1,5 @@
 #include <iostream>
-#include <catch.hpp>
+#include "func.h"
 
 class Test
 {
