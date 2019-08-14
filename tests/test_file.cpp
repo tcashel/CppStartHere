@@ -1,7 +1,7 @@
 #define CATCH_CONFIG_MAIN  // This tells Catch to provide a main() - only do this in one cpp file
 #include "catch.hpp"
 
-#include "func.h"
+#include "../inc/func.h"
 
 TEST_CASE("test the test function's output")
 {
